@@ -1,0 +1,124 @@
+body {
+  background-color: #fffffff;
+  text-align: center;
+  font-family: 'Raleway', Helvetica, sans-serif;
+  min-width: 320px;
+}
+h1
+{
+  font-family :Impact, Charcoal, sans-serif ;
+  font-size : 50px;
+  background-color:#3C5A99;
+  padding : 20px;
+  color : white;
+ 
+  
+  
+}
+header {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 20px;
+}
+
+#form-outer {
+  background-color: #3C5A99;
+  margin: 0 auto;
+  border-radius: 20px;
+  width: 85%;
+  max-width: 900px;
+  padding: 5px;
+  padding-top: 30px;
+}
+
+.labels {
+  display: inline-block;
+  text-align: right;
+  width: 40%;
+  padding: 5px;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+.rightTab {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+  vertical-align: middle;
+}
+
+.input-field {
+  height: 20px;
+  width: 280px;
+  padding: 5px;
+  margin: 10px;
+  border: 5px solid #c0c0c0;
+  border-radius: 20px;
+}
+
+#userAge {
+  width: 40px;
+}
+
+.userRatings,
+input[type="checkbox"] {
+  float: center;
+  margin-right: 5px;
+}
+
+#submit {
+  background-color: #003366;
+  border-radius: 15px;
+  color: white;
+  font-size: 1em;
+  height: 40px;
+  width: 96px;
+  margin: 10px;
+  border: 5px solid #c0c0c0;
+}
+
+.dropdown {
+  height: 45px;
+  width: 140px;
+  padding: 5px;
+  margin: 10px;  
+  margin-top: 15px;
+  border: 5px solid #c0c0c0;
+  border-radius: 15px;
+}
+
+.radio, .checkbox {
+  position: relative;
+  left: -43px;
+  margin-left: 10px;
+  display: block;
+  padding-bottom: 10px;
+  
+  
+}
+
+@media screen and (max-width: 833px) {
+  .input-field {
+    width: 80%;
+  }
+  select {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .labels {
+    width: 100%;
+    text-align: left;
+  }
+  .rightTab {
+    width: 80%;
+    float: left;
+  }
+  .input-field {
+    width: 100%;
+  }
+  select {
+    width: 100%;
+  }
+}

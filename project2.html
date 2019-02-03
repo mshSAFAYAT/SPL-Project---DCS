@@ -1,0 +1,92 @@
+<h1 id="title">Survey Form</h1>
+<h2> Let us know how we can improve facebook </h2>
+    <img id = "image"
+               src="https://brandpalettes.com/wp-content/uploads/2018/05/facebook_color_codes-300x300.png" alt = "facebook" 
+    </img>
+<div id="form-outer">
+  
+<form>
+  <div class="rowTab">
+      <div class="labels">
+        <label id="name-label" for="name">* First Name: </label>
+      </div>
+      <div class="rightTab">
+        <input autofocus type="text" name="name" id="name" class="input-field" placeholder="Enter your first name" required>
+      </div>
+    
+      <div class="labels">
+        <label id="name-label" for="name">*Last Name: </label>
+      </div>
+      <div class="rightTab">
+        <input autofocus type="text" name="name" id="name" class="input-field" placeholder="Enter your last name" required>
+      </div>
+    </div>
+  
+  <div class="rowTab">
+      <div class="labels">
+        <label id="email-label" for="email">* Email: </label>
+      </div>
+      <div class="rightTab">
+        <input type="email" name="email" id="email" class="input-field" required placeholder="Enter your Email">
+      </div>
+    </div>
+  
+  <div class="rowTab">
+      <div class="labels">
+        <label id="age" for="age">* Age: </label>
+      </div>
+      <div class="rightTab">
+        <input type="age" name="age" id="age" class="input-field" required placeholder="Enter your age">
+      </div>
+    </div>
+  
+  <div class="rowTab">
+    <div class="lebels">
+      <label id="gender" for="gender">* Gender: </lebel>
+    </div>
+    <div class="rightTab">
+  <input type="radio" name="gender" value="male" checked> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="radio" name="gender" value="other"> Other<br>
+    </div>
+  
+  
+  
+  </div>
+    <div class="rowTab">
+      <div class="labels">
+        <label for="currentPos">How often do you use facebook?</label>
+      </div>
+      <div class="rightTab">
+        <select id="dropdown" name="currentPos" class="dropdown">
+      <option disabled value>Select an option</option>
+      <option  value="Once in a day">Once in a day</option>
+      <option value="When i get notification">When i get notification</option>
+      <option value="often">often</option>
+          <option value="not at all">not at all</option>
+      <option value="other">Other</option>
+    </select>
+      </div>
+    </div>
+  <div class="rowTab">
+      <div class="labels">
+        <label for="preferences">Things that should be improved in the future<br>(Check all that apply): </label>
+      </div>
+      <div class="rightTab">
+        <ul id="preferences" style="list-style: none;">
+          <li class="checkbox"><label><input name="prefer" value="1" type="checkbox" class="userRatings">Comment Section</label></li>
+          <li class="checkbox"><input name="prefer" value="2" type="checkbox" class="userRatings">Emoji</li>
+          <li class="checkbox"><label><input name="prefer" value="3" type="checkbox" class="userRatings">Notification System</label></li>
+          <li class="checkbox"><label><input name="prefer" value="4" type="checkbox" class="userRatings">Profile Security</label></li>
+          <li class="checkbox"><label><input name="prefer" value="5" type="checkbox" class="userRatings">Page Setting</label></li>
+          <li class="checkbox"><label><input name="prefer" value="6" type="checkbox" class="userRatings">Naming Convention</label></li>
+          <li class="checkbox"><label><input name="prefer" value="7" type="checkbox" class="userRatings">Videos</label></li>
+          <li class="checkbox"><label><input name="prefer" value="8" type="checkbox" class="userRatings">Photos</label></li>
+          
+          <li class="checkbox"><label><input name="prefer" value="10" type="checkbox" class="userRatings">Environment</label></li>
+        </ul>
+      </div>
+    </div>
+   <button id="submit" type="submit">Submit</button>
+</form>
+</div>
