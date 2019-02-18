@@ -1,0 +1,15 @@
+<div id="LogInwrapper">
+  <div id="LogInbar"> <table class="LogIntablewrapper">
+    <tr>
+      <td class="row1"><a href="https://www.google.com/gmail/" target="_blank">Gmail</a></td>
+    <td class="row1"><a href="https://www.google.com/gmail/" target="_blank">Image</a></td>
+    </div>
+  </div>
+    
+    <tr>
+<div id="search">
+    <div id="div-img" class="border">
+     <img src="https://sites.google.com/a/thawara.ac.th/s26510/_/rsrc/1536632792961/home/google-new-logo-2015-640x344.png" alt="21feb.">
+</div>
+  <input type="searchBar">
+</div>
