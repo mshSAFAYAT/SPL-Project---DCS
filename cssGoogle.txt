@@ -1,0 +1,251 @@
+window.google={kEI:'fmtcXL-AKqSevQSNiJXYCQ',kEXPI:'31',authuser:0,kscs:'cbbe9fc5_fmtcXL-AKqSevQSNiJXYCQ',u:'cbbe9fc5',kGL:'BD'};
+body, html {
+    font-size: small;
+}
+body {
+    background: #fff;
+    color: #222;
+}
+border{
+  border:5px;
+  border-color:red;
+}
+#LogInwrapper {
+  width: 120%;
+  height: 10zpx;
+  background-color: #0000;
+  padding-top:2px;
+}
+#LogInbar {
+  margin: 0 auto;
+  width:980px;
+  height:100px;
+}
+.LogIntablewrapper {
+  position:top;
+  float:right;
+  margin-top:5px;
+  margin-right:20px;
+}
+.row1 {
+  color:#fff;
+  font-size:14px;
+  width:180px;
+  cursor:pointer;
+  position:top;
+}
+input[type="searchBar"]{
+  position:center;
+  padding-left:60px;
+  left:10%;
+   transform: translate(18%);
+    width: 60%;
+    height: 34px;
+    border-radius: 0.25em;
+    border: 1px solid #d1d5da;
+}
+gb_b {
+    display: inline-block;
+    outline: none;
+    vertical-align: middle;
+    border-radius: 2px;
+    box-sizing: border-box;
+    height: 30px;
+  width: 30px;}
+
+.gb_b {
+    display: inline-block;
+    outline: none;
+    vertical-align: middle;
+    border-radius: 2px;
+    box-sizing: border-box;
+    height: 30px;
+    width: 30px;
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+}
+a {
+    color: #1a0dab;
+    text-decoration: none;
+}
+body, td, a, p, .h {
+    font-family: arial,sans-serif;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.gb_Zc {
+    line-height: normal;
+    position: relative;
+    text-align: left;
+}
+.gb_3g {
+    white-space: nowrap;
+}
+.gb_mb {
+    min-width: 255px;
+    padding-left: 30px;
+    padding-right: 30px;
+    position: relative;
+    text-align: right;
+    z-index: 986;
+    align-items: center;
+    justify-content: flex-end;
+}
+.div-img{
+  max-width: 40%; 
+  display: block; 
+  height: 10%;
+  margin: auto;
+  padding-top:10px;
+  padding-left:100px;
+
+  img-align: center;
+}
+  #img-div{
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+  border:5px solid white;
+  background:white;
+}img{
+  max-width: 100%; 
+  display: block; 
+  height: 400%;
+  margin: auto;
+}
+.gb_3g {
+    white-space: nowrap;
+}
+#gb {
+    font-size: 13px;
+}
+body, html {
+    font-size: small;
+}
+body {
+    background: #fff;
+    color: #222;
+}
+body, td, a, p, .h {
+    font-family: arial,sans-serif;
+}
+body, html {
+    font-size: small;
+}
+background-image:
+url(https://ssl.gstatic.com/gb/images/i1_1967ca6a.png)
+;
+background-position-x:
+-132px
+;
+background-position-y:
+-38px
+;
+background-size:
+528px 68px
+;
+border-bottom-left-radius:
+2px
+;
+border-bottom-right-radius:
+2px
+;
+border-top-left-radius:
+2px
+;
+border-top-right-radius:
+2px
+;
+box-sizing:
+border-box
+;
+color:
+rgb(0, 0, 0)
+;
+cursor:
+pointer
+;
+display:
+inline-block
+;
+font-family:
+arial, sans-serif
+;
+font-size:
+13px
+;
+height:
+30px
+;
+line-height:
+normal
+;
+opacity:
+0.55
+;
+outline-color:
+rgb(0, 0, 0)
+;
+outline-style:
+none
+;
+outline-width:
+0px
+;
+text-align:
+left
+;
+text-decoration-color:
+rgb(0, 0, 0)
+;
+text-decoration-line:
+none
+;
+text-decoration-style:
+solid
+;
+vertical-align:
+middle
+;
+white-space:
+nowrap
+;
+width:
+30px
+;
+
+.gb_ub {
+    border-color: transparent;
+    border-bottom-color: #fff;
+    border-style: dashed dashed solid;
+    border-width: 0 8.5px 8.5px;
+    display: none;
+    position: absolute;
+    left: 6.5px;
+    top: 37px;
+    z-index: 1;
+    height: 0;
+    width: 0;
+    animation: gb__a .2s;
+#img-div{
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+  border:5px solid white;
+  background:white;
+}img{
+  max-width: 100%; 
+  display: block; 
+  height: 400%;
+  margin: auto;
+}
+.gb_2d .gb_3d{color:#ffffff;cursor:default;font-size:22px;font-weight:normal;position:absolute;right:12px;top:5px}
+.gb_2d .gb_Hd,.gb_2d .gb_Ed{color:#ffffff;display:inline-block;font-size:11px;margin-left:16px;padding:0 8px;white-space:nowrap}
+.gb_2d{color:#ffffff;font-size:13px;font-weight:bold;height:25px;line-height:19px;padding-top:5px;padding-left:12px;position:relative;background-color:#4d90fe}
+.gb_W+img{border:0;margin:8px;height:48px;width:48px}
+.gb_ja.gb_ma,.gb_ja.gb_na{padding-bottom:0}
