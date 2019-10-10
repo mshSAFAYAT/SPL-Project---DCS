@@ -1,0 +1,84 @@
+body{
+   margin: 5px;
+    padding: 0;
+    background-image: url('ClassroomProject.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #f9f9f9;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    display: block;
+    margin: 1em 0 1em;
+    font-weight: 100;
+    font-size: 28px;
+}
+h2{
+    padding-left: 4px;
+}
+p{
+    display: block;
+    margin: 1em 0 1em;
+    padding-top: .5px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    font-weight: 20;
+    font-size: 20px;
+}
+#box{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 320px;
+    height: 400px;
+    border: 1px solid #d8dee2;
+    border-radius: 3%;
+    padding: 40px;
+    font-size: 15px;
+    background-color: #285575ad;
+    font-weight: 600;
+}
+#loginbox{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 440px;
+    height: 650px;
+    border: 1px solid #d8dee2;
+    border-radius: 3%;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #f9f9f9de;
+    font-weight: 600;
+}
+#att{
+    position: absolute;
+    left: 50%;
+    width: 440px;
+    height: 590px;
+    background-color: #285575ad;
+}
+#student{
+    text-align: center;
+    display: block;
+    margin: 3em 0 1em;
+    font-weight: 100;
+    font-size: 28px;
+}
+
+input[type="submit"]{
+    width: 40%;
+    border: none;
+    background-color: 28a745;
+    background-image: linear-gradient(-180deg, #DBE5FC 0%, #DBE5FC 90%);;
+    color: #0F2E44;
+    display: block;
+    margin-top: 4px;
+    margin-bottom:5px;
+    font-size: 18px;
+    font-weight: 500;
+    height: 30px;
+    border-radius: 0.25em;
+}
