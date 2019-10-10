@@ -1,0 +1,9 @@
+The Bangladesh Bank robbery, also known colloquially as the Bangladesh Bank cyber heist,which took place in February 2016, when 35 fraudulent instructions were issued by security hackers via the SWIFT network to illegally transfer close to $1 billion from the Federal Reserve Bank of New York account belonging to Bangladesh Bank.
+
+ Five of the 35 fraudulent instructions were successfully transfered $101 million, with $20 million traced to Sri Lanka and $81 million to the Philippines. The Federal Reserve Bank of New York blocked the remaining 30 transactions, amounting to $850 million, due to suspicions raised by a misspelled instruction.
+
+ Though all the money trasfered to SriLanka has been recovered but only $18 milion of $81 milion has been recovered from Philippines.
+
+The forensic investigators of Mandiant company,brought by World Informatix Cyber Security,found "footprints" and malware of hackers,which suggested that the system had been breached.The hackers(outside Bangladesh) harvested credentials from local machine and used them to laterally move to connected systems.They moved to the network connected to the Swift Financial Network and compromised a local administrator account,owned by Bangladesh Bank,and installed monitoring software.Using informations they initiated 35 transfers worth $951 million.
+
+Here this hack would have prevented early if the ethics have been followed.This loss would be much less by blocking the hackers if the network engineer,security engineer and other authority of bank had priotized the security of privilleged accounts of bank and taken some ethical steps.
